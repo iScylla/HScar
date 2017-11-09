@@ -14,12 +14,9 @@ classoption: oneside
 header-includes:
     - \usepackage{fourier}
 
-abstract: Die Webapplikation "LeihDeinWagen" wird im Rahmen der Vorlesung "Webbasierte Anwendungen" entwickelt. 
-Das Ziel des Projekts ist es eine Webseite zu entwickeln, die es Personen ermöglichen soll Autos einfach & sicher zu mieten und vermieten. 
-Bei der Entwicklung soll eine responsive Webseite erstellt werden, die auf allen mobilen Endgeräten darstellbar ist.
+abstract: Die Webapplikation "LeihDeinWagen" wird im Rahmen der Vorlesung "Webbasierte Anwendungen" entwickelt. Das Ziel des Projekts ist es eine Webseite zu entwickeln, die es Personen ermöglichen soll Autos einfach & sicher zu mieten und vermieten. Bei der Entwicklung soll eine responsive Webseite erstellt werden, die auf allen mobilen Endgeräten darstellbar ist.
 
 ---
-
 
 # Zielsetzung
 
@@ -55,7 +52,7 @@ Diese beiden Versionen ermöglichen den Einsatz von LeihDeinWagen jederzeit and 
 ## Zielgruppe
 
 LeihDeinWagen richtet sich in erster Linie an Studenten an Hochschulen und Universitäten in Baden-Württemberg.
-Nach erfolgreicher Etablierung könnte das Projekt für jede Hochschule/Universität deutschlandweit erweitert werden.
+Nach erfolgreicher Etablierung könnte das Projekt für jede Hochschule oder Universität deutschlandweit erweitert werden.
 
 
 # Produktumgebung
