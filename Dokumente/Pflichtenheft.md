@@ -191,3 +191,29 @@ Die Projektmitglieder müssen wenigstens Erfahrungen in einem der unten aufgefü
 * JQuery
 * HTML
 * SQL
+
+\pagebreak
+## Bestätigungserklärung
+
+### Projektgruppe 7 
+
+LeihDeinWagen
+
+### Gruppenmitglieder
+
+<p>Buchmüller Erik</p>
+<p>Cimpean Aaron</p>
+<p>König Reingold</p>
+
+
+### Prüfer
+
+<p>Ing. Robert Kuti</p>
+
+<p> </p>
+<p> </p>
+
+
+<p>November, 9 2017</p>
+
+
