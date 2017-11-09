@@ -12,11 +12,12 @@ lang: de-DE
 documentclass: scrartcl 
 classoption: oneside
 header-includes:
-    - \usepackage{fourier}
+    -\usepackage{fourier}
 
 abstract: Die Webapplikation "LeihDeinWagen" wird im Rahmen der Vorlesung "Webbasierte Anwendungen" entwickelt. 
 Das Ziel des Projekts ist es eine Webseite zu entwickeln, die es Personen ermöglichen soll Autos einfach & sicher zu mieten und vermieten. 
 Bei der Entwicklung soll eine responsive Webseite erstellt werden, die auf allen mobilen Endgeräten darstellbar ist.
+
 ---
 
 
